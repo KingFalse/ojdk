@@ -1,4 +1,6 @@
- 文件名 |  下载地址  
+### [第一时间获取更新?请点击博客链接:https://www.kagura.me/dev/20200424112618.html](https://www.kagura.me/dev/20200424112618.html)
+----
+文件名 |  下载地址  
 -|-
 jdk-11.0.9_windows-x64_bin.zip	|https://code.aliyun.com/kar/ojdk11-11.0.9/raw/master/jdk-11.0.9_windows-x64_bin.zip
 jdk-11.0.9_osx-x64_bin.tar.gz	|https://code.aliyun.com/kar/ojdk11-11.0.9/raw/master/jdk-11.0.9_osx-x64_bin.tar.gz
